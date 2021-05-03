@@ -1,0 +1,1 @@
+Testing linking, this output is going to stdout and output.txt
